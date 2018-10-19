@@ -1,0 +1,8 @@
+Wnioski nasuwają się same, gdyż albowiem:
+
+es5:
+    -zmienne "var"
+    -przed nazwami metod klasy "complex.prototype"
+es6:
+    -zmienne "let"
+    -"use strict" w pierwszej lini kodu
